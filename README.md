@@ -1,16 +1,6 @@
------------------------------------------------------------------
-Author..: Macedo, G. Diniz - Desenvolvedor Full Stack
-Projeto.: Classe generica que represente um herói de uma 
-          aventura e que possua as seguintes propriedades
-Fonte...: DIO.me - Digital Innovation One
-Objetivo: Usar os conhecimento em estruturas condicionais e 
-          funções para criar um algoritmo decisivo.
-Docente.: Felipe Aguiar - Tech Educator
------------------------------------------------------------------
-
 ## Objetivo:
 
-classe generica que represente um herói de uma aventura e que 
+Classe generica que represente um herói de uma aventura e que 
 possua as seguintes propriedades nome, idade e tipo (ex: guerreiro, mago, monge, ninja )
 
 Além disso, deve ter um método chamado atacar que deve atender os seguientes requisitos:
